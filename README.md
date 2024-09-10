@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Haribramha
+- 👋 Hi, I’m Haribramha S N
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning coding 
 - 💞️ I’m looking to collaborate on ...
